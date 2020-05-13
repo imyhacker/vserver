@@ -1,6 +1,9 @@
 # vserver
 Tools Untuk Linux / Termux / Windows / MacOS yang sudah terinstall PHP 5 / 7, karena Tools ini hanya Bisa Berjalan Pada PHP 5/7
 
+100% OPENSOURCE - Tolong Gausah Recode :) Ini Cuman Simple Code.
+Makanya Pakek Tuh Otak:D
+
 # How
 - git clone https://github.com/imyhacker/vserver
 - cd vserver
