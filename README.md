@@ -20,3 +20,7 @@ Tools ini berguna untuk kamu kamu yang malas Copy Ke Foler WWW/HTDOCS terutama u
 
 - Momos - Indsc
 - Pojan - Indsc
+
+# IMAGES
+
+![Cuplikan Layar_2020-05-13_17-23-32](https://user-images.githubusercontent.com/45889833/81801376-86c83480-953e-11ea-9261-efaa3b151003.png)
